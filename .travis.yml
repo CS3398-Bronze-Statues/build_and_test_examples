@@ -8,8 +8,8 @@ script:
  - python helloworld.py
  - python hellocaleb.py
  - sh test_helloChris.sh
- - python helloAllyn.py
- - python hellomaria.py
  - sh testAllyn.sh
+ - python hellomaria.py
+
 #before_install:
 # - pip 
