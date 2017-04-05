@@ -9,6 +9,7 @@ script:
  - python hellocaleb.py
  - python helloChris.py
  - python helloAllyn.py
+ - python hellomaria.py
 
 #before_install:
 # - pip 
