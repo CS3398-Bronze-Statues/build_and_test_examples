@@ -7,7 +7,7 @@ python:
 script:
  - python helloworld.py
  - python hellocaleb.py
- - python helloChris.py
+ - sh test_helloChris.sh
  - python helloAllyn.py
  - python hellomaria.py
  - sh testAllyn.sh
