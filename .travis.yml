@@ -10,6 +10,6 @@ script:
  - python helloChris.py
  - python helloAllyn.py
  - python hellomaria.py
-
+ - sh testAllyn.sh
 #before_install:
 # - pip 
