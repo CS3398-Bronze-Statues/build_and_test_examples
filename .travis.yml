@@ -6,6 +6,7 @@ python:
  
 script:
  - python helloworld.py
+ - python hellocaleb.py
 
 #before_install:
 # - pip 
